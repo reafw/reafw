@@ -5,7 +5,7 @@
 
 ## Sosyal Medya
 [![Discord](https://img.shields.io/badge/Discord%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/huYmmEfDfN)
-[![YouTube](https://img.shields.io/badge/Youtube%20-323330.svg?&style=for-the-badge&logo=youtube&logoColor=ff0000)](https://youtube.com/UCV35EwaxmEg1koRivYp1FCQ) 
+[![YouTube](https://img.shields.io/badge/Youtube%20-323330.svg?&style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/channel/UCV35EwaxmEg1koRivYp1FCQ) 
 [![Spotify](https://img.shields.io/badge/Spotify%20-323330.svg?&style=for-the-badge&logo=spotify&logoColor=52BA21)](https://open.spotify.com/user/acc7yfry9iyswlaailk1jaj3r?si=QOyBBLUoTFeJt4gg26x2lw&utm_source=copy-link)
 
 ## Github İstatistiklerim
