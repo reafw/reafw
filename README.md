@@ -1,6 +1,8 @@
 <h1 align="center">Profilime hoşgeldin!</h1>
 <h3 align="center">16 yaşında discordda takılan sıradan bir gencim.</h3>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/425683498028892160)](https://discord.com/users/425683498028892160)
+
 ## Sosyal Medya
 [![Discord](https://img.shields.io/badge/Discord%20-323330.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/huYmmEfDfN)
 [![YouTube](https://img.shields.io/badge/Youtube%20-323330.svg?&style=for-the-badge&logo=youtube&logoColor=ff0000)](https://youtube.com/UCV35EwaxmEg1koRivYp1FCQ) 
